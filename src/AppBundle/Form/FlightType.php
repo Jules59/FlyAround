@@ -31,6 +31,4 @@ class FlightType extends AbstractType
     {
         return 'appbundle_flight';
     }
-
-
 }
